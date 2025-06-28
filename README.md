@@ -1,4 +1,4 @@
-# React Todo Web App
+# Recipe Finder Web App - React.js
 
 ## By Dipsundar Majhi - 2025
 
