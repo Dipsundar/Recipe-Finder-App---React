@@ -1,3 +1,17 @@
+# React Todo Web App
+
+## By Dipsundar Majhi - 2025
+
+---
+
+### Purpose of this Project : Showcase
+
+- My Skills
+
+### [Click here to see the project demo](https://recipe-finder-app-react.vercel.app/)
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
